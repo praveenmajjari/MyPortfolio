@@ -88,7 +88,7 @@ const projects = [
     ],
     techStack: ["React", "Tailwind CSS", "Framer Motion", "Vercel"],
     repoLink: "https://github.com/praveenmajjari/MyPortfolio.git",
-    liveLink: "https://my-portfolio-lilac-chi-13.vercel.app/",
+    liveLink: "https://my-portfolio-umber-six-23.vercel.app/",
   },
 ];
 
