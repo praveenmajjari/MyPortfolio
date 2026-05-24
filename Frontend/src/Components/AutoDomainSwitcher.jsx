@@ -33,12 +33,10 @@ const AutoDomainSwitcher = () => {
     >
       <Typewriter
         words={[
-          "Full Stack Developer",
           "Frontend Developer",
-          "Backend Developer",
-          "Software Engineer",
           "AI Enthusiast",
           "Web Developer",
+          "UIUX Designer",
             
           
         ]}
