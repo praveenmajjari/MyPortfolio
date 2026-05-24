@@ -66,7 +66,7 @@ fetch(`${backendURL}/sendMail`, { ... });
 ```env
 EMAIL_USER=your_email@gmail.com
 EMAIL_PASS=your_gmail_app_password
-FRONTEND_URL=https://vinit-pothuraju.vercel.app
+FRONTEND_URL=https://my-portfolio-umber-six-23.vercel.app/
 ```
 
 In `Server.js` (Express):
