@@ -1,5 +1,5 @@
 
-# 🌐 Vinit Kumar Pothuraju – Full Stack Developer Portfolio
+# 🌐 Praveen Majjari –  Portfolio
 
 Welcome to my personal portfolio built using a full stack setup:
 
@@ -120,8 +120,8 @@ npm run dev
 
 ```json
 {
-  "name": "Vinit Kumar",
-  "email": "vinitkumarpothuraju@gmail.com",
+  "name": "Praveen Majjari",
+  "email": "praveenmajjari@gmail.com",
   "message": "Hello from your portfolio!"
 }
 ```
@@ -130,8 +130,8 @@ npm run dev
 
 ## 🧑‍💼 Contact Me
 
-* 📧 Email: [vinitkumarpothuraju@gmail.com](mailto:vinitkumarpothuraju@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/pothuraju-vinit-kumar/](https://www.linkedin.com/in/pothuraju-vinit-kumar/)
+* 📧 Email: [praveenmajjari@gmail.com](mailto:praveenmajjari@gmail.com)
+* 💼 LinkedIn: [www.linkedin.com/in/chandra-praveen-majjari/](www.linkedin.com/in/chandra-praveen-majjari)
 * 🐱 GitHub: [github.com/Vinit-Pothuraju](https://github.com/Vinit-Pothuraju)
 
 ---
@@ -147,9 +147,9 @@ npm run dev
 
 ## 📜 License
 
-MIT License © 2025 [Vinit Kumar Pothuraju](https://github.com/Vinit-Pothuraju)
+MIT License © 2025 [Praveen Majjari](https://github.com/Vinit-Pothuraju)
 
 
-> Built with 💻 + ☕ by Vinit Kumar Pothuraju
+> Built with 💻 + ☕ by Praveen Majjari
 
 
