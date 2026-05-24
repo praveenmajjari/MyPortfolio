@@ -132,7 +132,7 @@ npm run dev
 
 * 📧 Email: [praveenmajjari@gmail.com](mailto:praveenmajjari@gmail.com)
 * 💼 LinkedIn: [www.linkedin.com/in/chandra-praveen-majjari/](www.linkedin.com/in/chandra-praveen-majjari)
-* 🐱 GitHub: [github.com/Vinit-Pothuraju](https://github.com/Vinit-Pothuraju)
+* 🐱 GitHub: [https://github.com/praveenmajjari](https://github.com/praveenmajjari)
 
 ---
 
@@ -147,7 +147,7 @@ npm run dev
 
 ## 📜 License
 
-MIT License © 2025 [Praveen Majjari](https://github.com/Vinit-Pothuraju)
+MIT License © 2025 [Praveen Majjari](https://github.com/praveenmajjari)
 
 
 > Built with 💻 + ☕ by Praveen Majjari
