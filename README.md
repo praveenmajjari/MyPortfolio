@@ -9,7 +9,7 @@ Welcome to my personal portfolio built using a full stack setup:
 - 🌐 **Deployment**: Frontend on Vercel, Backend on Render
 - 🔒 **Environment-based configs** via `.env` in both frontend and backend
 
-🔗 [Live Website](https://my-portfolio-lilac-chi-13.vercel.app/)
+🔗 [Live Website](https://my-portfolio-umber-six-23.vercel.app/)
 
 ---
 
